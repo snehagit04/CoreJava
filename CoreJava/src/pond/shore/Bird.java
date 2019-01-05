@@ -4,5 +4,6 @@ public class Bird {
 	protected void floatInWater() { // protected access
 	System.out.println(text);
 	System.out.println("hello , this is a bird class");
+	System.out.println("Hello");
 }
 }
